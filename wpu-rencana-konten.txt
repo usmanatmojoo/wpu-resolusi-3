@@ -1,12 +1,25 @@
+
 RENCANA KONTEN WPU
 
 - Java script 
   * ES6
   * FrameWork Javascript
-    ^ Vue
+    ^Vue
+    ^React
 - Struktur data dasar
 - PHP Frameworks
   ^laravel
 - Interview
 - Vlogs
 - Phython
+RENCANA KONTEN WPU
+
+- Java script 
+  * ES6
+  * FrameWork Javascript
+    ^Angular
+    ^React
+- PHP Frameworks
+  ^laravel
+- Interview
+- Vlogs
