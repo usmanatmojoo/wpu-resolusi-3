@@ -1,4 +1,3 @@
-
 RENCANA KONTEN WPU
 
 - Java script 
@@ -12,14 +11,3 @@ RENCANA KONTEN WPU
 - Interview
 - Vlogs
 - Phython
-RENCANA KONTEN WPU
-
-- Java script 
-  * ES6
-  * FrameWork Javascript
-    ^Angular
-    ^React
-- PHP Frameworks
-  ^laravel
-- Interview
-- Vlogs
